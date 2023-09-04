@@ -1,0 +1,3 @@
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/rebuild_cache.dir
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/edit_cache.dir
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/fp16.dir

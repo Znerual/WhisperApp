@@ -1,0 +1,7 @@
+Executable : /home/ruzickal/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/arm64-v8a
+native-lib
+jvmArgs : 
+

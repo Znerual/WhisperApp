@@ -1,0 +1,11 @@
+# ninja log v5
+0	14	1688046842	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-mkdir	41b190ca6a7efa95
+14	2177	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-download	9fec83a990e5a971
+2177	2186	0	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-update	6ac2561cadae0c3e
+2186	2189	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-patch	9acfdde331d914e0
+2189	2193	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-configure	2fdb24474d0bfdc4
+2193	2196	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-build	dd81dab0652792f
+2196	2200	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-install	f3cedd606147b73e
+2200	2203	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-test	cf03d3f953b7de7d
+2203	2208	1688046844	CMakeFiles/abseil-cpp-populate-complete	6632a44c9d5945a6
+2203	2208	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/abseil-cpp-populate-stamp/abseil-cpp-populate-done	6632a44c9d5945a6

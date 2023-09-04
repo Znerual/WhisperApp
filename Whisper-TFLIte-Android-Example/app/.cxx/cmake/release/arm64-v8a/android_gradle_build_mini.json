@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/CMakeLists.txt",
+    "/home/ruzickal/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+    "/home/ruzickal/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake",
+    "/home/ruzickal/Android/Sdk/ndk/25.1.8937393/build/cmake/platforms.cmake",
+    "/home/ruzickal/Android/Sdk/ndk/25.1.8937393/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/home/ruzickal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/ruzickal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/ruzickal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/release/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": [
+        "/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/generated-libs/arm64-v8a/libtensorflowlite.so"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+27002cee48941ced0b83dd68ad4758ab /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-build
+c3fd3eecdbfe13519856a5a0d239d7f9 /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-configure
+3fba6984d0b0ec787fce0bb6614cb357 /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-download
+1ecf3e51b0d85dbfa3370bb35104505d /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-install
+8c37291bddecdc51860f689fafe6f976 /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-mkdir
+3ef111483c1e864ca6a2842074200ce4 /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-patch
+b2977d215b25a1da686b2e2dadd612ea /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-test
+d458eaa861954bed41aa64947be27716 /home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/src/xnnpack-populate-stamp/xnnpack-populate-update
+0f6fe0af745c12c984df1047fd0cd9a9 CMakeFiles/xnnpack-populate
+90d3fd09add7032e7e6053c9f04ec28c CMakeFiles/xnnpack-populate-complete

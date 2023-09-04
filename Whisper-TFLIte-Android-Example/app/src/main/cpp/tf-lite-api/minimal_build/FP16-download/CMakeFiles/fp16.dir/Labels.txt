@@ -1,0 +1,14 @@
+# Target labels
+ fp16
+# Source files and their labels
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/fp16
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/fp16.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/CMakeFiles/fp16-complete.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-install.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-mkdir.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-download.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-update.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-patch.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-configure.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-build.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-test.rule

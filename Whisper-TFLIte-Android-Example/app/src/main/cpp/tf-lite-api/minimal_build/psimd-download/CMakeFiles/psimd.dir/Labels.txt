@@ -1,0 +1,14 @@
+# Target labels
+ psimd
+# Source files and their labels
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/CMakeFiles/psimd
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/CMakeFiles/psimd.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/CMakeFiles/psimd-complete.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-install.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-mkdir.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-download.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-update.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-patch.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-configure.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-build.rule
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-test.rule

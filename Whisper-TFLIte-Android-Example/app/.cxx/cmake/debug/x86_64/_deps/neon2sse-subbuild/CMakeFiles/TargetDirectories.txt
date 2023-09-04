@@ -1,0 +1,3 @@
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/_deps/neon2sse-subbuild/CMakeFiles/rebuild_cache.dir
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/_deps/neon2sse-subbuild/CMakeFiles/edit_cache.dir
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/_deps/neon2sse-subbuild/CMakeFiles/neon2sse-populate.dir

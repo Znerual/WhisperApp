@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/ruy/ruy/have_built_path_for_avx2_fma.cc
+ruy/have_built_path_for.h
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/ruy/ruy/ruy/have_built_path_for.h
+ruy/opt_set.h
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/ruy/ruy/ruy/opt_set.h
+
+ruy/ruy/have_built_path_for.h
+ruy/platform.h
+ruy/ruy/ruy/platform.h
+
+ruy/ruy/opt_set.h
+
+ruy/ruy/platform.h
+android/ndk-version.h
+-
+

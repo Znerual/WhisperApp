@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/cpuinfo/deps/clog/src/clog.c
+stdarg.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+windows.h
+-
+unistd.h
+-
+android/log.h
+-
+qurt_printf.h
+-
+clog.h
+-
+
+cpuinfo/deps/clog/include/clog.h
+stdarg.h
+-
+stdlib.h
+-
+inttypes.h
+-
+

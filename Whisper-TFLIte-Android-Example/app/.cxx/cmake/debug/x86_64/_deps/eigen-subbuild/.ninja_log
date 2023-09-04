@@ -1,0 +1,11 @@
+# ninja log v5
+0	16	1688046844	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-mkdir	322f2c523b1bca84
+16	6120	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-download	22a5922444aa6042
+6120	6129	0	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-update	b6c1326e1ef06a8a
+6129	6133	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-patch	f1ef9378a16d3d49
+6133	6136	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-configure	590f64adeee42037
+6136	6140	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-build	c64ff3cbd95cac80
+6140	6143	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-install	8e50150cff6bdb57
+6143	6147	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-test	1d20c50485c4a12d
+6147	6152	1688046850	CMakeFiles/eigen-populate-complete	bdaaff85d8ed0c24
+6147	6152	1688046850	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/eigen-populate-stamp/eigen-populate-done	bdaaff85d8ed0c24

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/ruy/ruy/system_aligned_alloc.cc
+ruy/system_aligned_alloc.h
+/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/minimal_build/ruy/ruy/ruy/system_aligned_alloc.h
+cstddef
+-
+cstdlib
+-
+malloc.h
+-
+
+ruy/ruy/system_aligned_alloc.h
+cstddef
+-
+

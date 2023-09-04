@@ -1,0 +1,11 @@
+# ninja log v5
+0	12	1688046867	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-mkdir	ffef8f3aa68159e6
+12	15048	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-download	59b6d3c50a7bead2
+15048	15057	0	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-update	67c51679ff8cd245
+15057	15060	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-patch	c45f4bc842d5590c
+15060	15064	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-configure	45a6726c38f646eb
+15064	15067	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-build	4ff4aa2acddb7a
+15067	15071	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-install	4a17e254068c7f71
+15071	15075	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-test	4ec8f4b59034cf06
+15075	15080	1688046883	CMakeFiles/xnnpack-populate-complete	1628ab23be98e418
+15075	15080	1688046883	/home/ruzickal/StudioProjects/android_whisper_app_orig/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/x86_64/src/xnnpack-populate-stamp/xnnpack-populate-done	1628ab23be98e418
